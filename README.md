@@ -1,3 +1,5 @@
+## A fork version to release latest jitsi SDK sooner
+
 # react-native-jitsi-meet
 React native wrapper for Jitsi Meet SDK
 
